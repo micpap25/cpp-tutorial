@@ -13,8 +13,9 @@ int main() {
             std::cout << "Falling through with an error here\n";
         case 3:
             std::cout << "Using an attribute to tell the compiler that we're falling through intentionally here\n";
-            __fallthrough
+            __fallthrough;
             // Which is equivalent to [[fallthrough]]
+            // This is a feature as of C++ 17
         case 4:
             std::cout << "Ending here\n";
             break;
