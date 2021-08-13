@@ -46,6 +46,15 @@
         "iomanip": "cpp",
         "string": "cpp",
         "xlocmon": "cpp",
-        "xloctime": "cpp"
+        "xloctime": "cpp",
+        "algorithm": "cpp",
+        "random": "cpp",
+        "vector": "cpp",
+        "array": "cpp",
+        "functional": "cpp",
+        "list": "cpp",
+        "sstream": "cpp",
+        "unordered_map": "cpp",
+        "xhash": "cpp"
     }
 }
