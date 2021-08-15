@@ -1,0 +1,2 @@
+most of chapter 12 is omitted because it naturally follows from the rest of the rules
+stuff like static and const isn't included for classes but it's pretty natural
